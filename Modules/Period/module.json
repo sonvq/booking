@@ -1,0 +1,17 @@
+{
+    "name": "Period",
+    "alias": "period",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 17,
+    "providers": [
+        "Modules\\Period\\Providers\\PeriodServiceProvider",
+        "Modules\\Period\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Region",
+    "alias": "region",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 8,
+    "providers": [
+        "Modules\\Region\\Providers\\RegionServiceProvider",
+        "Modules\\Region\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

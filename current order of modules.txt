@@ -1,0 +1,22 @@
+agency 2
+audit 3
+bill - 16
+booking - 15
+campaign - 14
+company 4
+Country - 5
+Customer - 6
+Email - 7
+Region - 8
+Hotel - 9
+Period - 17
+Promotion - 18
+Receipt - 19
+Room - 10
+Service - 11
+Supplier - 12
+Surcharge - 13
+
+
+
+

@@ -1,0 +1,17 @@
+{
+    "name": "Bill",
+    "alias": "bill",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 16,
+    "providers": [
+        "Modules\\Bill\\Providers\\BillServiceProvider",
+        "Modules\\Bill\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

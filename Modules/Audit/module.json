@@ -1,0 +1,17 @@
+{
+    "name": "Audit",
+    "alias": "audit",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 3,
+    "providers": [
+        "Modules\\Audit\\Providers\\AuditServiceProvider",
+        "Modules\\Audit\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

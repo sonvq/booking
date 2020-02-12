@@ -1,0 +1,8 @@
+1. composer update
+2. php artisan asgard:install -f
+3. php artisan key:generate
+4. php artisan module:migrate
+5. php artisan migrate
+6. php artisan module:seed country
+7. Go to admin, role and change the role for admin (admin can access all the modules)
+

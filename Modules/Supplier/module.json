@@ -1,0 +1,17 @@
+{
+    "name": "Supplier",
+    "alias": "supplier",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Supplier\\Providers\\SupplierServiceProvider",
+        "Modules\\Supplier\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}

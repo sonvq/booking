@@ -1,0 +1,17 @@
+{
+    "name": "Surcharge",
+    "alias": "surcharge",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 13,
+    "providers": [
+        "Modules\\Surcharge\\Providers\\SurchargeServiceProvider",
+        "Modules\\Surcharge\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}
